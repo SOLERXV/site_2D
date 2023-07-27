@@ -24,6 +24,27 @@
     img {
       max-width: 100%;
     }
-    
-    
+    .primeiro{
+        display: flex;
+        size: 40px;
+    }
+    .segundo{
+        display: flex;
+        size: 40px;
+
+    }
+    .terceiro{
+        display: flex;
+        size: 40px;
+    }
+    .quarto{
+        display:flex;
+        size: 40px;
+    }
+    .quinto{
+        display: flex;
+        size: 40px;
+
+    }
+
   </style>
